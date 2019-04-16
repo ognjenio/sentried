@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/regac/code/sentried/sentried.py
+Hidden=false
+X-GNOME-Autostart-enabled=true
+Name=Sentried Startup
+Comment=
